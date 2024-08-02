@@ -1,0 +1,182 @@
+wandb: Currently logged in as: zwsdz123 (innsbruck). Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.17.5 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.17.3
+wandb: Run data is saved locally in /home/amir.reza/counterfactual/CFX-REC/wandb/run-20240724_151334-erg4zlep
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run wandering-jazz-103
+wandb: ⭐️ View project at https://wandb.ai/innsbruck/my-awesome-project
+wandb: 🚀 View run at https://wandb.ai/innsbruck/my-awesome-project/runs/erg4zlep
+wandb: - 0.005 MB of 0.005 MB uploadedwandb: \ 0.005 MB of 0.005 MB uploadedwandb: | 0.008 MB of 0.008 MB uploadedwandb:                                                                                
+wandb: 
+wandb: Run history:
+wandb:  acc ▁▄▅▆▇▇██
+wandb: loss ██▃▄▁▂▂▂
+wandb: 
+wandb: Run summary:
+wandb:  acc 0.97192
+wandb: loss 0.12172
+wandb: 
+wandb: 🚀 View run wandering-jazz-103 at: https://wandb.ai/innsbruck/my-awesome-project/runs/erg4zlep
+wandb: ⭐️ View project at: https://wandb.ai/innsbruck/my-awesome-project
+wandb: Synced 4 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240724_151334-erg4zlep/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: wandb version 0.17.5 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.17.3
+wandb: Run data is saved locally in /home/amir.reza/counterfactual/CFX-REC/wandb/run-20240724_151341-bar1coab
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run trial_0
+wandb: ⭐️ View project at https://wandb.ai/innsbruck/ML1M_MLP_LXR_training
+wandb: 🚀 View run at https://wandb.ai/innsbruck/ML1M_MLP_LXR_training/runs/bar1coab
+method MLP @ 10
+model is MLP_ML1M_18_512.pt
+======================== new run ========================
+Finished epoch 0 with run_pos_at_k 0.5831818181818182 and run_neg_at_k 0.7377272727272727
+Train loss = -92145.234375
+saving the checkpoint in epch 1 with filename: 18LXR_ML1M_MLP_0_1_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 1 with run_pos_at_k 0.585 and run_neg_at_k 0.7422727272727273
+Train loss = -137553.84375
+saving the checkpoint in epch 2 with filename: 18LXR_ML1M_MLP_0_2_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 2 with run_pos_at_k 0.5845454545454545 and run_neg_at_k 0.75
+Train loss = -138845.6875
+saving the checkpoint in epch 3 with filename: 18LXR_ML1M_MLP_0_3_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 3 with run_pos_at_k 0.5881818181818183 and run_neg_at_k 0.749090909090909
+Train loss = -139256.09375
+saving the checkpoint in epch 4 with filename: 18LXR_ML1M_MLP_0_4_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 4 with run_pos_at_k 0.5877272727272728 and run_neg_at_k 0.7477272727272727
+Train loss = -139414.453125
+saving the checkpoint in epch 5 with filename: 18LXR_ML1M_MLP_0_5_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 5 with run_pos_at_k 0.5877272727272728 and run_neg_at_k 0.7454545454545455
+Train loss = -139496.859375
+saving the checkpoint in epch 6 with filename: 18LXR_ML1M_MLP_0_6_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 6 with run_pos_at_k 0.59 and run_neg_at_k 0.7454545454545455
+Train loss = -139551.375
+saving the checkpoint in epch 7 with filename: 18LXR_ML1M_MLP_0_7_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 7 with run_pos_at_k 0.5922727272727273 and run_neg_at_k 0.744090909090909
+Train loss = -139617.25
+saving the checkpoint in epch 8 with filename: 18LXR_ML1M_MLP_0_8_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 8 with run_pos_at_k 0.5922727272727273 and run_neg_at_k 0.7418181818181818
+Train loss = -139646.125
+saving the checkpoint in epch 9 with filename: 18LXR_ML1M_MLP_0_9_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 9 with run_pos_at_k 0.5927272727272728 and run_neg_at_k 0.7436363636363637
+Train loss = -139669.03125
+saving the checkpoint in epch 10 with filename: 18LXR_ML1M_MLP_0_10_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 10 with run_pos_at_k 0.5922727272727273 and run_neg_at_k 0.7445454545454545
+Train loss = -139682.328125
+saving the checkpoint in epch 11 with filename: 18LXR_ML1M_MLP_0_11_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 11 with run_pos_at_k 0.5918181818181818 and run_neg_at_k 0.7445454545454545
+Train loss = -139715.203125
+saving the checkpoint in epch 12 with filename: 18LXR_ML1M_MLP_0_12_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 12 with run_pos_at_k 0.5940909090909091 and run_neg_at_k 0.7468181818181818
+Train loss = -139775.265625
+saving the checkpoint in epch 13 with filename: 18LXR_ML1M_MLP_0_13_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 13 with run_pos_at_k 0.5945454545454545 and run_neg_at_k 0.7472727272727273
+Train loss = -139783.828125
+saving the checkpoint in epch 14 with filename: 18LXR_ML1M_MLP_0_14_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 14 with run_pos_at_k 0.5922727272727273 and run_neg_at_k 0.744090909090909
+Train loss = -139791.515625
+saving the checkpoint in epch 15 with filename: 18LXR_ML1M_MLP_0_15_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 15 with run_pos_at_k 0.5945454545454545 and run_neg_at_k 0.745
+Train loss = -139793.359375
+saving the checkpoint in epch 16 with filename: 18LXR_ML1M_MLP_0_16_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 16 with run_pos_at_k 0.5940909090909091 and run_neg_at_k 0.7431818181818182
+Train loss = -139797.953125
+saving the checkpoint in epch 17 with filename: 18LXR_ML1M_MLP_0_17_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 17 with run_pos_at_k 0.5940909090909091 and run_neg_at_k 0.7445454545454545
+Train loss = -139797.5
+saving the checkpoint in epch 18 with filename: 18LXR_ML1M_MLP_0_18_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 18 with run_pos_at_k 0.5940909090909091 and run_neg_at_k 0.7431818181818182
+Train loss = -139806.140625
+saving the checkpoint in epch 19 with filename: 18LXR_ML1M_MLP_0_19_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 19 with run_pos_at_k 0.5931818181818183 and run_neg_at_k 0.7436363636363637
+Train loss = -139819.46875
+saving the checkpoint in epch 20 with filename: 18LXR_ML1M_MLP_0_20_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 20 with run_pos_at_k 0.5922727272727273 and run_neg_at_k 0.745909090909091
+Train loss = -139827.203125
+saving the checkpoint in epch 21 with filename: 18LXR_ML1M_MLP_0_21_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 21 with run_pos_at_k 0.5922727272727273 and run_neg_at_k 0.744090909090909
+Train loss = -139836.328125
+saving the checkpoint in epch 22 with filename: 18LXR_ML1M_MLP_0_22_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 22 with run_pos_at_k 0.59 and run_neg_at_k 0.7431818181818182
+Train loss = -139838.0625
+saving the checkpoint in epch 23 with filename: 18LXR_ML1M_MLP_0_23_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 23 with run_pos_at_k 0.5913636363636363 and run_neg_at_k 0.7445454545454545
+Train loss = -139839.671875
+saving the checkpoint in epch 24 with filename: 18LXR_ML1M_MLP_0_24_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 24 with run_pos_at_k 0.5909090909090909 and run_neg_at_k 0.7436363636363637
+Train loss = -139842.328125
+saving the checkpoint in epch 25 with filename: 18LXR_ML1M_MLP_0_25_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 25 with run_pos_at_k 0.5913636363636363 and run_neg_at_k 0.7431818181818182
+Train loss = -139841.78125
+saving the checkpoint in epch 26 with filename: 18LXR_ML1M_MLP_0_26_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 26 with run_pos_at_k 0.5904545454545455 and run_neg_at_k 0.745
+Train loss = -139862.25
+saving the checkpoint in epch 27 with filename: 18LXR_ML1M_MLP_0_27_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 27 with run_pos_at_k 0.5909090909090909 and run_neg_at_k 0.7427272727272727
+Train loss = -139862.96875
+saving the checkpoint in epch 28 with filename: 18LXR_ML1M_MLP_0_28_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 28 with run_pos_at_k 0.5895454545454545 and run_neg_at_k 0.7431818181818182
+Train loss = -139865.296875
+saving the checkpoint in epch 29 with filename: 18LXR_ML1M_MLP_0_29_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 29 with run_pos_at_k 0.5904545454545455 and run_neg_at_k 0.7418181818181818
+Train loss = -139864.53125
+saving the checkpoint in epch 30 with filename: 18LXR_ML1M_MLP_0_30_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 30 with run_pos_at_k 0.5909090909090909 and run_neg_at_k 0.744090909090909
+Train loss = -139865.359375
+saving the checkpoint in epch 31 with filename: 18LXR_ML1M_MLP_0_31_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 31 with run_pos_at_k 0.5904545454545455 and run_neg_at_k 0.7427272727272727
+Train loss = -139868.078125
+saving the checkpoint in epch 32 with filename: 18LXR_ML1M_MLP_0_32_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 32 with run_pos_at_k 0.5904545454545455 and run_neg_at_k 0.7436363636363637
+Train loss = -139868.34375
+saving the checkpoint in epch 33 with filename: 18LXR_ML1M_MLP_0_33_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 33 with run_pos_at_k 0.5904545454545455 and run_neg_at_k 0.7422727272727273
+Train loss = -139871.515625
+saving the checkpoint in epch 34 with filename: 18LXR_ML1M_MLP_0_34_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 34 with run_pos_at_k 0.5895454545454545 and run_neg_at_k 0.7427272727272727
+Train loss = -139892.578125
+saving the checkpoint in epch 35 with filename: 18LXR_ML1M_MLP_0_35_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 35 with run_pos_at_k 0.5904545454545455 and run_neg_at_k 0.7422727272727273
+Train loss = -139893.53125
+wandb: - 0.005 MB of 0.005 MB uploadedwandb: \ 0.005 MB of 0.005 MB uploadedwandb: | 0.017 MB of 0.017 MB uploadedwandb:                                                                                
+wandb: 
+wandb: Run history:
+wandb:      train/epoch ▁▁▁▂▂▂▂▂▂▃▃▃▃▃▄▄▄▄▄▄▅▅▅▅▅▅▆▆▆▆▆▇▇▇▇▇▇███
+wandb:    train/l1_loss ▁███████████████████████████████████████
+wandb:   train/neg_loss █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb:   train/pos_loss █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb: train/train_loss █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb:     val/neg_at_k ▁▄█▇▇▅▅▅▃▄▅▅▆▆▅▅▄▅▄▄▆▅▄▅▄▄▅▄▄▃▅▄▄▄▄▄▄▄▃▅
+wandb:     val/pos_at_k ▁▂▂▄▄▄▅▇▇▇▇▆██▇████▇▇▇▅▆▆▆▅▆▅▅▆▅▅▅▅▅▅▅▇▅
+wandb: 
+wandb: Run summary:
+wandb:      train/epoch 39
+wandb:    train/l1_loss 4269.02588
+wandb:   train/neg_loss -5450.41455
+wandb:   train/pos_loss 241.49417
+wandb: train/train_loss -139894.5625
+wandb:     val/neg_at_k 0.74409
+wandb:     val/pos_at_k 0.59045
+wandb: 
+wandb: 🚀 View run trial_0 at: https://wandb.ai/innsbruck/ML1M_MLP_LXR_training/runs/bar1coab
+wandb: ⭐️ View project at: https://wandb.ai/innsbruck/ML1M_MLP_LXR_training
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240724_151341-bar1coab/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.
+saving the checkpoint in epch 36 with filename: 18LXR_ML1M_MLP_0_36_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 36 with run_pos_at_k 0.59 and run_neg_at_k 0.7431818181818182
+Train loss = -139892.203125
+saving the checkpoint in epch 37 with filename: 18LXR_ML1M_MLP_0_37_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 37 with run_pos_at_k 0.59 and run_neg_at_k 0.7431818181818182
+Train loss = -139894.015625
+saving the checkpoint in epch 38 with filename: 18LXR_ML1M_MLP_0_38_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 38 with run_pos_at_k 0.5922727272727273 and run_neg_at_k 0.7404545454545455
+Train loss = -139895.046875
+saving the checkpoint in epch 39 with filename: 18LXR_ML1M_MLP_0_39_64_46.96548987189771_28.53094252532356.pt
+Finished epoch 39 with run_pos_at_k 0.5904545454545455 and run_neg_at_k 0.744090909090909
+Train loss = -139894.5625
+Stop at trial with lambda_pos = 46.96548987189771, lambda_neg = 28.53094252532356, alpha_parameter = 1. Best results at epoch 0 with value 0.5831818181818182
+Best hyperparameters: {'learning_rate': 0.006539823439809912, 'alpha': 1, 'lambda_neg': 28.53094252532356, 'lambda_pos': 46.96548987189771, 'batch_size': 128, 'explainer_hidden_size': 64}
+Best metric value: 0.5831818181818182
