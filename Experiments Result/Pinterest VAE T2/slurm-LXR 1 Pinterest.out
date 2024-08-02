@@ -1,0 +1,182 @@
+wandb: Currently logged in as: zwsdz123 (innsbruck). Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.17.5 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.17.3
+wandb: Run data is saved locally in /home/amir.reza/counterfactual/CFX-REC/wandb/run-20240728_154640-gv56dmaf
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run dazzling-bee-106
+wandb: ⭐️ View project at https://wandb.ai/innsbruck/my-awesome-project
+wandb: 🚀 View run at https://wandb.ai/innsbruck/my-awesome-project/runs/gv56dmaf
+wandb: - 0.005 MB of 0.007 MB uploadedwandb: \ 0.005 MB of 0.007 MB uploadedwandb: | 0.008 MB of 0.008 MB uploadedwandb:                                                                                
+wandb: 
+wandb: Run history:
+wandb:  acc ▁▇▅▆▇▇█▇
+wandb: loss ▆█▄▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:  acc 0.82184
+wandb: loss 0.14964
+wandb: 
+wandb: 🚀 View run dazzling-bee-106 at: https://wandb.ai/innsbruck/my-awesome-project/runs/gv56dmaf
+wandb: ⭐️ View project at: https://wandb.ai/innsbruck/my-awesome-project
+wandb: Synced 4 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240728_154640-gv56dmaf/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: wandb version 0.17.5 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.17.3
+wandb: Run data is saved locally in /home/amir.reza/counterfactual/CFX-REC/wandb/run-20240728_154646-nynedx95
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run trial_0
+wandb: ⭐️ View project at https://wandb.ai/innsbruck/Pinterest_VAE_LXR_training
+wandb: 🚀 View run at https://wandb.ai/innsbruck/Pinterest_VAE_LXR_training/runs/nynedx95
+method VAE @ 10
+model is 1VAE_Pinterest_2_1_0.0014_128.pt
+======================== new run ========================
+Finished epoch 0 with run_pos_at_k 0.6731818181818181 and run_neg_at_k 0.85
+Train loss = 1505827.625
+saving the checkpoint in epch 1 with filename: 1LXR_Pinterest_VAE_0_1_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 1 with run_pos_at_k 0.6754545454545454 and run_neg_at_k 0.8372727272727274
+Train loss = 1444347.25
+saving the checkpoint in epch 2 with filename: 1LXR_Pinterest_VAE_0_2_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 2 with run_pos_at_k 0.6840909090909091 and run_neg_at_k 0.8272727272727274
+Train loss = 1436780.125
+saving the checkpoint in epch 3 with filename: 1LXR_Pinterest_VAE_0_3_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 3 with run_pos_at_k 0.6927272727272726 and run_neg_at_k 0.8372727272727274
+Train loss = 1432944.875
+saving the checkpoint in epch 4 with filename: 1LXR_Pinterest_VAE_0_4_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 4 with run_pos_at_k 0.6936363636363636 and run_neg_at_k 0.8281818181818181
+Train loss = 1429878.0
+saving the checkpoint in epch 5 with filename: 1LXR_Pinterest_VAE_0_5_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 5 with run_pos_at_k 0.6954545454545454 and run_neg_at_k 0.8281818181818181
+Train loss = 1427257.25
+saving the checkpoint in epch 6 with filename: 1LXR_Pinterest_VAE_0_6_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 6 with run_pos_at_k 0.6959090909090909 and run_neg_at_k 0.825
+Train loss = 1424768.125
+saving the checkpoint in epch 7 with filename: 1LXR_Pinterest_VAE_0_7_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 7 with run_pos_at_k 0.6959090909090909 and run_neg_at_k 0.8268181818181819
+Train loss = 1423353.0
+saving the checkpoint in epch 8 with filename: 1LXR_Pinterest_VAE_0_8_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 8 with run_pos_at_k 0.7022727272727274 and run_neg_at_k 0.8268181818181819
+Train loss = 1423185.875
+saving the checkpoint in epch 9 with filename: 1LXR_Pinterest_VAE_0_9_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 9 with run_pos_at_k 0.7022727272727274 and run_neg_at_k 0.8290909090909091
+Train loss = 1421974.25
+saving the checkpoint in epch 10 with filename: 1LXR_Pinterest_VAE_0_10_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 10 with run_pos_at_k 0.7031818181818181 and run_neg_at_k 0.8290909090909091
+Train loss = 1419499.0
+saving the checkpoint in epch 11 with filename: 1LXR_Pinterest_VAE_0_11_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 11 with run_pos_at_k 0.7022727272727274 and run_neg_at_k 0.8277272727272726
+Train loss = 1416789.75
+saving the checkpoint in epch 12 with filename: 1LXR_Pinterest_VAE_0_12_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 12 with run_pos_at_k 0.6990909090909091 and run_neg_at_k 0.8340909090909091
+Train loss = 1414288.0
+saving the checkpoint in epch 13 with filename: 1LXR_Pinterest_VAE_0_13_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 13 with run_pos_at_k 0.6972727272727274 and run_neg_at_k 0.83
+Train loss = 1412826.5
+saving the checkpoint in epch 14 with filename: 1LXR_Pinterest_VAE_0_14_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 14 with run_pos_at_k 0.7 and run_neg_at_k 0.8318181818181819
+Train loss = 1410809.125
+saving the checkpoint in epch 15 with filename: 1LXR_Pinterest_VAE_0_15_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 15 with run_pos_at_k 0.6968181818181819 and run_neg_at_k 0.8340909090909091
+Train loss = 1408782.75
+saving the checkpoint in epch 16 with filename: 1LXR_Pinterest_VAE_0_16_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 16 with run_pos_at_k 0.6940909090909091 and run_neg_at_k 0.8340909090909091
+Train loss = 1406847.75
+saving the checkpoint in epch 17 with filename: 1LXR_Pinterest_VAE_0_17_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 17 with run_pos_at_k 0.7004545454545454 and run_neg_at_k 0.8377272727272727
+Train loss = 1405350.0
+saving the checkpoint in epch 18 with filename: 1LXR_Pinterest_VAE_0_18_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 18 with run_pos_at_k 0.6936363636363636 and run_neg_at_k 0.8386363636363636
+Train loss = 1403090.375
+saving the checkpoint in epch 19 with filename: 1LXR_Pinterest_VAE_0_19_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 19 with run_pos_at_k 0.6918181818181819 and run_neg_at_k 0.8381818181818181
+Train loss = 1401384.375
+saving the checkpoint in epch 20 with filename: 1LXR_Pinterest_VAE_0_20_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 20 with run_pos_at_k 0.6904545454545454 and run_neg_at_k 0.8422727272727273
+Train loss = 1400921.875
+saving the checkpoint in epch 21 with filename: 1LXR_Pinterest_VAE_0_21_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 21 with run_pos_at_k 0.6868181818181819 and run_neg_at_k 0.8422727272727273
+Train loss = 1399295.875
+saving the checkpoint in epch 22 with filename: 1LXR_Pinterest_VAE_0_22_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 22 with run_pos_at_k 0.6895454545454546 and run_neg_at_k 0.8354545454545454
+Train loss = 1397496.125
+saving the checkpoint in epch 23 with filename: 1LXR_Pinterest_VAE_0_23_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 23 with run_pos_at_k 0.6872727272727274 and run_neg_at_k 0.8431818181818181
+Train loss = 1396261.125
+saving the checkpoint in epch 24 with filename: 1LXR_Pinterest_VAE_0_24_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 24 with run_pos_at_k 0.6836363636363636 and run_neg_at_k 0.8390909090909091
+Train loss = 1395768.5
+saving the checkpoint in epch 25 with filename: 1LXR_Pinterest_VAE_0_25_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 25 with run_pos_at_k 0.6859090909090909 and run_neg_at_k 0.8363636363636364
+Train loss = 1394378.625
+saving the checkpoint in epch 26 with filename: 1LXR_Pinterest_VAE_0_26_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 26 with run_pos_at_k 0.6781818181818181 and run_neg_at_k 0.8336363636363636
+Train loss = 1393368.625
+saving the checkpoint in epch 27 with filename: 1LXR_Pinterest_VAE_0_27_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 27 with run_pos_at_k 0.6818181818181819 and run_neg_at_k 0.8354545454545454
+Train loss = 1392979.625
+saving the checkpoint in epch 28 with filename: 1LXR_Pinterest_VAE_0_28_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 28 with run_pos_at_k 0.6763636363636364 and run_neg_at_k 0.8354545454545454
+Train loss = 1392539.375
+saving the checkpoint in epch 29 with filename: 1LXR_Pinterest_VAE_0_29_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 29 with run_pos_at_k 0.6736363636363636 and run_neg_at_k 0.8336363636363636
+Train loss = 1392200.25
+saving the checkpoint in epch 30 with filename: 1LXR_Pinterest_VAE_0_30_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 30 with run_pos_at_k 0.6768181818181819 and run_neg_at_k 0.8422727272727273
+Train loss = 1392096.25
+saving the checkpoint in epch 31 with filename: 1LXR_Pinterest_VAE_0_31_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 31 with run_pos_at_k 0.6759090909090909 and run_neg_at_k 0.8386363636363636
+Train loss = 1391266.0
+saving the checkpoint in epch 32 with filename: 1LXR_Pinterest_VAE_0_32_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 32 with run_pos_at_k 0.6686363636363636 and run_neg_at_k 0.8427272727272727
+Train loss = 1390656.375
+saving the checkpoint in epch 33 with filename: 1LXR_Pinterest_VAE_0_33_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 33 with run_pos_at_k 0.6740909090909091 and run_neg_at_k 0.8368181818181819
+Train loss = 1390249.75
+saving the checkpoint in epch 34 with filename: 1LXR_Pinterest_VAE_0_34_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 34 with run_pos_at_k 0.6736363636363636 and run_neg_at_k 0.8422727272727273
+Train loss = 1390157.25
+saving the checkpoint in epch 35 with filename: 1LXR_Pinterest_VAE_0_35_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 35 with run_pos_at_k 0.6759090909090909 and run_neg_at_k 0.8390909090909091
+Train loss = 1389720.375
+wandb: - 0.005 MB of 0.005 MB uploadedwandb: \ 0.005 MB of 0.005 MB uploadedwandb: | 0.005 MB of 0.005 MB uploadedwandb: / 0.005 MB of 0.005 MB uploadedwandb: - 0.005 MB of 0.005 MB uploadedwandb: \ 0.005 MB of 0.005 MB uploadedwandb: | 0.005 MB of 0.005 MB uploadedwandb: / 0.005 MB of 0.005 MB uploadedwandb: - 0.005 MB of 0.005 MB uploadedwandb: \ 0.005 MB of 0.005 MB uploadedwandb: | 0.005 MB of 0.006 MB uploadedwandb: / 0.005 MB of 0.017 MB uploadedwandb: - 0.005 MB of 0.017 MB uploadedwandb: \ 0.005 MB of 0.017 MB uploadedwandb: | 0.005 MB of 0.017 MB uploadedwandb: / 0.017 MB of 0.017 MB uploadedwandb:                                                                                
+wandb: 
+wandb: Run history:
+wandb:      train/epoch ▁▁▁▂▂▂▂▂▂▃▃▃▃▃▄▄▄▄▄▄▅▅▅▅▅▅▆▆▆▆▆▇▇▇▇▇▇███
+wandb:    train/l1_loss ▁▆▇▇████████████████████████████▇▇▇▇▇▇▇▇
+wandb:   train/neg_loss █▄▃▃▃▃▂▂▂▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb:   train/pos_loss ▂▅▇▇███████▇▇▇▇▆▆▅▅▅▄▄▄▃▃▃▃▃▂▂▂▂▂▂▂▁▁▁▁▁
+wandb: train/train_loss █▄▄▄▃▃▃▃▃▃▃▃▃▂▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb:     val/neg_at_k █▄▂▄▂▂▁▂▂▂▂▂▄▂▃▄▄▅▅▅▆▆▄▆▅▄▃▄▄▃▆▅▆▄▆▅▆▇▆▆
+wandb:     val/pos_at_k ▂▂▄▆▆▆▇▇████▇▇▇▇▆▇▆▆▅▅▅▅▄▅▃▄▃▂▃▂▁▂▂▂▃▂▃▃
+wandb: 
+wandb: Run summary:
+wandb:      train/epoch 39
+wandb:    train/l1_loss 14280.54492
+wandb:   train/neg_loss -133170.89062
+wandb:   train/pos_loss 79170.91406
+wandb: train/train_loss 1388108.875
+wandb:     val/neg_at_k 0.84318
+wandb:     val/pos_at_k 0.67682
+wandb: 
+wandb: 🚀 View run trial_0 at: https://wandb.ai/innsbruck/Pinterest_VAE_LXR_training/runs/nynedx95
+wandb: ⭐️ View project at: https://wandb.ai/innsbruck/Pinterest_VAE_LXR_training
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240728_154646-nynedx95/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.
+saving the checkpoint in epch 36 with filename: 1LXR_Pinterest_VAE_0_36_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 36 with run_pos_at_k 0.6777272727272726 and run_neg_at_k 0.8413636363636364
+Train loss = 1388902.625
+saving the checkpoint in epch 37 with filename: 1LXR_Pinterest_VAE_0_37_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 37 with run_pos_at_k 0.6745454545454546 and run_neg_at_k 0.845
+Train loss = 1388656.875
+saving the checkpoint in epch 38 with filename: 1LXR_Pinterest_VAE_0_38_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 38 with run_pos_at_k 0.6763636363636364 and run_neg_at_k 0.8445454545454545
+Train loss = 1388166.5
+saving the checkpoint in epch 39 with filename: 1LXR_Pinterest_VAE_0_39_64_27.69984218601144_6.151450828794525.pt
+Finished epoch 39 with run_pos_at_k 0.6768181818181819 and run_neg_at_k 0.8431818181818181
+Train loss = 1388108.875
+Stop at trial with lambda_pos = 27.69984218601144, lambda_neg = 6.151450828794525, alpha_parameter = 1. Best results at epoch 32 with value 0.6686363636363636
+Best hyperparameters: {'learning_rate': 0.004838658719853256, 'alpha': 1, 'lambda_neg': 6.151450828794525, 'lambda_pos': 27.69984218601144, 'batch_size': 32, 'explainer_hidden_size': 64}
+Best metric value: 0.6686363636363636

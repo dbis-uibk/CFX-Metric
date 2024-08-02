@@ -1,0 +1,67 @@
+======================== new run ========================
+Finished epoch 0 with run_pos_at_k 0.5454545454545454 and run_neg_at_k 0.8063636363636364
+Train loss = -152875.90625
+saving the checkpoint in epch 1 with filename: LXR_ML1M_MLP_0_1_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 1 with run_pos_at_k 0.5427272727272727 and run_neg_at_k 0.8054545454545454
+Train loss = -162828.828125
+saving the checkpoint in epch 2 with filename: LXR_ML1M_MLP_0_2_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 2 with run_pos_at_k 0.5422727272727272 and run_neg_at_k 0.805
+Train loss = -162955.046875
+saving the checkpoint in epch 3 with filename: LXR_ML1M_MLP_0_3_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 3 with run_pos_at_k 0.5427272727272727 and run_neg_at_k 0.8054545454545454
+Train loss = -163005.640625
+saving the checkpoint in epch 4 with filename: LXR_ML1M_MLP_0_4_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 4 with run_pos_at_k 0.5431818181818182 and run_neg_at_k 0.8059090909090909
+Train loss = -163032.515625
+saving the checkpoint in epch 5 with filename: LXR_ML1M_MLP_0_5_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 5 with run_pos_at_k 0.5427272727272727 and run_neg_at_k 0.805
+Train loss = -163051.203125
+saving the checkpoint in epch 6 with filename: LXR_ML1M_MLP_0_6_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 6 with run_pos_at_k 0.5418181818181818 and run_neg_at_k 0.8063636363636364
+Train loss = -163063.328125
+saving the checkpoint in epch 7 with filename: LXR_ML1M_MLP_0_7_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 7 with run_pos_at_k 0.5418181818181818 and run_neg_at_k 0.8068181818181819
+Train loss = -163073.0
+saving the checkpoint in epch 8 with filename: LXR_ML1M_MLP_0_8_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 8 with run_pos_at_k 0.5418181818181818 and run_neg_at_k 0.8072727272727274
+Train loss = -163082.125
+saving the checkpoint in epch 9 with filename: LXR_ML1M_MLP_0_9_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 9 with run_pos_at_k 0.5427272727272727 and run_neg_at_k 0.8063636363636364
+Train loss = -163089.171875
+saving the checkpoint in epch 10 with filename: LXR_ML1M_MLP_0_10_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 10 with run_pos_at_k 0.5418181818181818 and run_neg_at_k 0.8054545454545454
+Train loss = -163094.734375
+saving the checkpoint in epch 11 with filename: LXR_ML1M_MLP_0_11_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 11 with run_pos_at_k 0.5281818181818182 and run_neg_at_k 0.8204545454545454
+Train loss = -163362.390625
+saving the checkpoint in epch 12 with filename: LXR_ML1M_MLP_0_12_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 12 with run_pos_at_k 0.5186363636363637 and run_neg_at_k 0.8213636363636364
+Train loss = -163511.171875
+saving the checkpoint in epch 13 with filename: LXR_ML1M_MLP_0_13_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 13 with run_pos_at_k 0.504090909090909 and run_neg_at_k 0.8127272727272726
+Train loss = -163554.953125
+saving the checkpoint in epch 14 with filename: LXR_ML1M_MLP_0_14_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 14 with run_pos_at_k 0.4713636363636363 and run_neg_at_k 0.7981818181818181
+Train loss = -163717.515625
+saving the checkpoint in epch 15 with filename: LXR_ML1M_MLP_0_15_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 15 with run_pos_at_k 0.465 and run_neg_at_k 0.7981818181818181
+Train loss = -163894.453125
+saving the checkpoint in epch 16 with filename: LXR_ML1M_MLP_0_16_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 16 with run_pos_at_k 0.47909090909090907 and run_neg_at_k 0.7995454545454546
+Train loss = -164080.796875
+saving the checkpoint in epch 17 with filename: LXR_ML1M_MLP_0_17_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 17 with run_pos_at_k 0.49090909090909096 and run_neg_at_k 0.8531818181818182
+Train loss = -165146.25
+saving the checkpoint in epch 18 with filename: LXR_ML1M_MLP_0_18_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 18 with run_pos_at_k 0.4940909090909091 and run_neg_at_k 0.8527272727272727
+Train loss = -165736.4375
+saving the checkpoint in epch 19 with filename: LXR_ML1M_MLP_0_19_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 19 with run_pos_at_k 0.5036363636363637 and run_neg_at_k 0.8481818181818181
+Train loss = -165910.828125
+saving the checkpoint in epch 20 with filename: LXR_ML1M_MLP_0_20_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 20 with run_pos_at_k 0.49090909090909096 and run_neg_at_k 0.85
+Train loss = -166095.375
+saving the checkpoint in epch 21 with filename: LXR_ML1M_MLP_0_21_64_4.534614003698712_46.85275883506523.pt
+Finished epoch 21 with run_pos_at_k 0.49136363636363634 and run_neg_at_k 0.85
+Train loss = -166149.234375
+saving the checkpoint in epch 22 with filename: LXR_ML1M_MLP_0_22_64_4.534614003698712_46.85275883506523.pt

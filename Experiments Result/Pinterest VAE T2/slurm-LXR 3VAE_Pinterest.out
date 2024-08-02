@@ -1,0 +1,98 @@
+wandb: Currently logged in as: zwsdz123 (innsbruck). Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.17.5 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.17.3
+wandb: Run data is saved locally in /home/amir.reza/counterfactual/CFX-REC/wandb/run-20240728_153939-7ldghjw9
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run resilient-energy-105
+wandb: ⭐️ View project at https://wandb.ai/innsbruck/my-awesome-project
+wandb: 🚀 View run at https://wandb.ai/innsbruck/my-awesome-project/runs/7ldghjw9
+wandb: - 0.005 MB of 0.005 MB uploadedwandb: \ 0.005 MB of 0.005 MB uploadedwandb: | 0.008 MB of 0.008 MB uploadedwandb:                                                                                
+wandb: 
+wandb: Run history:
+wandb:  acc ▁▄▇▆▇▇██
+wandb: loss █▄▅▂▂▁▁▂
+wandb: 
+wandb: Run summary:
+wandb:  acc 0.76529
+wandb: loss 0.29428
+wandb: 
+wandb: 🚀 View run resilient-energy-105 at: https://wandb.ai/innsbruck/my-awesome-project/runs/7ldghjw9
+wandb: ⭐️ View project at: https://wandb.ai/innsbruck/my-awesome-project
+wandb: Synced 4 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240728_153939-7ldghjw9/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: wandb version 0.17.5 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.17.3
+wandb: Run data is saved locally in /home/amir.reza/counterfactual/CFX-REC/wandb/run-20240728_153945-r5c3fc31
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run trial_0
+wandb: ⭐️ View project at https://wandb.ai/innsbruck/Pinterest_VAE_LXR_training
+wandb: 🚀 View run at https://wandb.ai/innsbruck/Pinterest_VAE_LXR_training/runs/r5c3fc31
+wandb: - 0.005 MB of 0.005 MB uploadedwandb: \ 0.005 MB of 0.005 MB uploadedwandb: | 0.005 MB of 0.008 MB uploadedwandb: / 0.005 MB of 0.008 MB uploadedwandb: - 0.011 MB of 0.011 MB uploadedwandb:                                                                                
+wandb: 
+wandb: Run history:
+wandb:      train/epoch ▁▂▂▃▄▄▅▅▆▇▇█
+wandb:    train/l1_loss ▁▅▆▇▇▇██████
+wandb:   train/neg_loss █▄▃▂▂▂▂▂▁▁▁▁
+wandb:   train/pos_loss ▄▁▃▄▅▆▇▇▇███
+wandb: train/train_loss █▄▃▂▂▂▂▂▁▁▁▁
+wandb:     val/neg_at_k █▄▇▄▅▅▃▂▄▃▂▁
+wandb:     val/pos_at_k ▂▂▁▂▃▃▄▆▆▆██
+wandb: 
+wandb: Run summary:
+wandb:      train/epoch 11
+wandb:    train/l1_loss 14802.32617
+wandb:   train/neg_loss -126565.5625
+wandb:   train/pos_loss 73103.83594
+wandb: train/train_loss -1497018.125
+wandb:     val/neg_at_k 0.78864
+wandb:     val/pos_at_k 0.72136
+wandb: 
+wandb: 🚀 View run trial_0 at: https://wandb.ai/innsbruck/Pinterest_VAE_LXR_training/runs/r5c3fc31
+wandb: ⭐️ View project at: https://wandb.ai/innsbruck/Pinterest_VAE_LXR_training
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240728_153945-r5c3fc31/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.
+method VAE @ 10
+model is 3VAE_Pinterest_2_3_0.0014_128.pt
+======================== new run ========================
+Finished epoch 0 with run_pos_at_k 0.6745454545454546 and run_neg_at_k 0.8190909090909091
+Train loss = -186109.078125
+saving the checkpoint in epch 1 with filename: 3LXR_Pinterest_VAE_0_1_128_46.83909560180911_38.999066543680215.pt
+Finished epoch 1 with run_pos_at_k 0.6754545454545454 and run_neg_at_k 0.8013636363636364
+Train loss = -899121.0625
+saving the checkpoint in epch 2 with filename: 3LXR_Pinterest_VAE_0_2_128_46.83909560180911_38.999066543680215.pt
+Finished epoch 2 with run_pos_at_k 0.6645454545454546 and run_neg_at_k 0.8140909090909091
+Train loss = -1107416.0
+saving the checkpoint in epch 3 with filename: 3LXR_Pinterest_VAE_0_3_128_46.83909560180911_38.999066543680215.pt
+Finished epoch 3 with run_pos_at_k 0.6722727272727274 and run_neg_at_k 0.8022727272727274
+Train loss = -1229412.5
+saving the checkpoint in epch 4 with filename: 3LXR_Pinterest_VAE_0_4_128_46.83909560180911_38.999066543680215.pt
+Finished epoch 4 with run_pos_at_k 0.6772727272727274 and run_neg_at_k 0.8040909090909091
+Train loss = -1298099.625
+saving the checkpoint in epch 5 with filename: 3LXR_Pinterest_VAE_0_5_128_46.83909560180911_38.999066543680215.pt
+Finished epoch 5 with run_pos_at_k 0.6813636363636364 and run_neg_at_k 0.8077272727272726
+Train loss = -1343034.25
+saving the checkpoint in epch 6 with filename: 3LXR_Pinterest_VAE_0_6_128_46.83909560180911_38.999066543680215.pt
+Finished epoch 6 with run_pos_at_k 0.69 and run_neg_at_k 0.7968181818181819
+Train loss = -1376523.125
+saving the checkpoint in epch 7 with filename: 3LXR_Pinterest_VAE_0_7_128_46.83909560180911_38.999066543680215.pt
+Finished epoch 7 with run_pos_at_k 0.7013636363636364 and run_neg_at_k 0.7909090909090909
+Train loss = -1402559.25
+saving the checkpoint in epch 8 with filename: 3LXR_Pinterest_VAE_0_8_128_46.83909560180911_38.999066543680215.pt
+Finished epoch 8 with run_pos_at_k 0.7077272727272726 and run_neg_at_k 0.8018181818181819
+Train loss = -1428412.5
+saving the checkpoint in epch 9 with filename: 3LXR_Pinterest_VAE_0_9_128_46.83909560180911_38.999066543680215.pt
+Finished epoch 9 with run_pos_at_k 0.7090909090909091 and run_neg_at_k 0.7968181818181819
+Train loss = -1450930.875
+saving the checkpoint in epch 10 with filename: 3LXR_Pinterest_VAE_0_10_128_46.83909560180911_38.999066543680215.pt
+Finished epoch 10 with run_pos_at_k 0.7186363636363636 and run_neg_at_k 0.7918181818181819
+Train loss = -1476262.25
+saving the checkpoint in epch 11 with filename: 3LXR_Pinterest_VAE_0_11_128_46.83909560180911_38.999066543680215.pt
+Finished epoch 11 with run_pos_at_k 0.7213636363636364 and run_neg_at_k 0.7886363636363636
+Train loss = -1497018.125
+Early stop at trial with lambda_pos = 46.83909560180911, lambda_neg = 38.999066543680215, alpha_parameter = 1. Best results at epoch 2 with value 0.6645454545454546
+Best hyperparameters: {'learning_rate': 0.003740492787586649, 'alpha': 1, 'lambda_neg': 38.999066543680215, 'lambda_pos': 46.83909560180911, 'batch_size': 256, 'explainer_hidden_size': 128}
+Best metric value: 0.6645454545454546

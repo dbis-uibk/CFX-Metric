@@ -1,0 +1,158 @@
+/home/amir.reza/counterfactual/CFX-REC/code/recommenders_architecture.py:41: UserWarning: The use of `x.T` on tensors of dimension other than 2 to reverse their shape is deprecated and it will throw an error in a future release. Consider `x.mT` to transpose batches of matrices or `x.permute(*torch.arange(x.ndim - 1, -1, -1))` to reverse the dimensions of a tensor. (Triggered internally at ../aten/src/ATen/native/TensorShape.cpp:3675.)
+  output = torch.matmul(user_vec, item_vec.T).to(self.device)
+0
+500
+1000
+1500
+2000
+2500
+ ============ Start explaining Yahoo MLP by lxr ============
+From file: MLP_lxr_expl_dict.pkl
+User 0, total time: 1.14
+User 500, total time: 1.03
+User 1000, total time: 1.44
+User 1500, total time: 1.02
+User 2000, total time: 1.03
+User 2500, total time: 1.06
+this experiment is for /home/amir.reza/counterfactual/CFX-REC/checkpoints/2MLP_Yahoo_2_256.pt and MLP
+users_DEL_lxr:  0.7298780920368046
+users_INS_lxr:  0.8183771253908261
+NDCG_lxr:  0.7048299000346947
+POS_at_1_lxr:  0.5145586297760211
+POS_at_5_lxr:  0.7953886693017128
+POS_at_10_lxr:  0.8797101449275362
+POS_at_20_lxr:  0.9290184453227931
+POS_at_50_lxr:  0.9524374176548089
+POS_at_100_lxr:  0.9599472990777339
+NEG_at_1_lxr:  0.6086956521739131
+NEG_at_5_lxr:  0.8500658761528326
+NEG_at_10_lxr:  0.9185111989459815
+NEG_at_20_lxr:  0.9541501976284585
+NEG_at_50_lxr:  0.9678853754940712
+NEG_at_100_lxr:  0.9715744400527009
+0.7298780920368046 0.8183771253908261 0.7048299000346947 0.5145586297760211 0.6086956521739131 0.7953886693017128 0.8500658761528326 0.8797101449275362 0.9185111989459815 0.9290184453227931 0.9541501976284585 0.9524374176548089 0.9678853754940712 0.9599472990777339 0.9715744400527009
+ ============ Start explaining Yahoo MLP by lime ============
+From file: MLP_lime_expl_dict.pkl
+User 0, total time: 1.03
+User 500, total time: 1.04
+User 1000, total time: 1.02
+User 1500, total time: 1.04
+User 2000, total time: 1.08
+User 2500, total time: 1.06
+this experiment is for /home/amir.reza/counterfactual/CFX-REC/checkpoints/2MLP_Yahoo_2_256.pt and MLP
+users_DEL_lime:  0.737090182890907
+users_INS_lime:  0.817240755868602
+NDCG_lime:  0.7102909883467066
+POS_at_1_lime:  0.5303359683794466
+POS_at_5_lime:  0.7896245059288538
+POS_at_10_lime:  0.8685770750988143
+POS_at_20_lime:  0.9221014492753623
+POS_at_50_lime:  0.95566534914361
+POS_at_100_lime:  0.9659090909090909
+NEG_at_1_lime:  0.6018445322793149
+NEG_at_5_lime:  0.8505599472990777
+NEG_at_10_lime:  0.9238142292490118
+NEG_at_20_lime:  0.9593214756258234
+NEG_at_50_lime:  0.9712779973649538
+NEG_at_100_lime:  0.9740447957839262
+0.737090182890907 0.817240755868602 0.7102909883467066 0.5303359683794466 0.6018445322793149 0.7896245059288538 0.8505599472990777 0.8685770750988143 0.9238142292490118 0.9221014492753623 0.9593214756258234 0.95566534914361 0.9712779973649538 0.9659090909090909 0.9740447957839262
+ ============ Start explaining Yahoo MLP by jaccard ============
+From file: MLP_jaccard_expl_dict.pkl
+User 0, total time: 1.03
+User 500, total time: 1.04
+User 1000, total time: 1.09
+User 1500, total time: 1.07
+User 2000, total time: 1.10
+User 2500, total time: 1.06
+this experiment is for /home/amir.reza/counterfactual/CFX-REC/checkpoints/2MLP_Yahoo_2_256.pt and MLP
+users_DEL_jaccard:  0.7339651572303318
+users_INS_jaccard:  0.8140577478047181
+NDCG_jaccard:  0.6929513919192989
+POS_at_1_jaccard:  0.5012845849802371
+POS_at_5_jaccard:  0.7773056653491437
+POS_at_10_jaccard:  0.858300395256917
+POS_at_20_jaccard:  0.9143280632411067
+POS_at_50_jaccard:  0.9488471673254283
+POS_at_100_jaccard:  0.9603754940711462
+NEG_at_1_jaccard:  0.5955533596837945
+NEG_at_5_jaccard:  0.847266139657444
+NEG_at_10_jaccard:  0.9195652173913044
+NEG_at_20_jaccard:  0.955566534914361
+NEG_at_50_jaccard:  0.9704545454545455
+NEG_at_100_jaccard:  0.9744729907773386
+0.7339651572303318 0.8140577478047181 0.6929513919192989 0.5012845849802371 0.5955533596837945 0.7773056653491437 0.847266139657444 0.858300395256917 0.9195652173913044 0.9143280632411067 0.955566534914361 0.9488471673254283 0.9704545454545455 0.9603754940711462 0.9744729907773386
+ ============ Start explaining Yahoo MLP by cosine ============
+From file: MLP_cosine_expl_dict.pkl
+User 0, total time: 1.21
+User 500, total time: 1.07
+User 1000, total time: 1.08
+User 1500, total time: 1.05
+User 2000, total time: 1.05
+User 2500, total time: 1.05
+this experiment is for /home/amir.reza/counterfactual/CFX-REC/checkpoints/2MLP_Yahoo_2_256.pt and MLP
+users_DEL_cosine:  0.731739397421332
+users_INS_cosine:  0.8170504562134643
+NDCG_cosine:  0.6895841683387481
+POS_at_1_cosine:  0.4951251646903821
+POS_at_5_cosine:  0.7761857707509883
+POS_at_10_cosine:  0.857905138339921
+POS_at_20_cosine:  0.9137022397891964
+POS_at_50_cosine:  0.9486824769433465
+POS_at_100_cosine:  0.9604743083003953
+NEG_at_1_cosine:  0.5958168642951251
+NEG_at_5_cosine:  0.8469038208168643
+NEG_at_10_cosine:  0.9198945981554677
+NEG_at_20_cosine:  0.9562911725955204
+NEG_at_50_cosine:  0.9704874835309618
+NEG_at_100_cosine:  0.974407114624506
+0.731739397421332 0.8170504562134643 0.6895841683387481 0.4951251646903821 0.5958168642951251 0.7761857707509883 0.8469038208168643 0.857905138339921 0.9198945981554677 0.9137022397891964 0.9562911725955204 0.9486824769433465 0.9704874835309618 0.9604743083003953 0.974407114624506
+ ============ Start explaining Yahoo MLP by shap ============
+From file: MLP_shap_expl_dict.pkl
+User 0, total time: 1.05
+User 500, total time: 1.07
+User 1000, total time: 1.04
+User 1500, total time: 1.01
+User 2000, total time: 1.25
+User 2500, total time: 1.01
+this experiment is for /home/amir.reza/counterfactual/CFX-REC/checkpoints/2MLP_Yahoo_2_256.pt and MLP
+users_DEL_shap:  0.7442237342384488
+users_INS_shap:  0.8112480111861889
+NDCG_shap:  0.7257409593907623
+POS_at_1_shap:  0.5387022397891963
+POS_at_5_shap:  0.8212450592885375
+POS_at_10_shap:  0.8987812911725954
+POS_at_20_shap:  0.9436100131752306
+POS_at_50_shap:  0.9647233201581027
+POS_at_100_shap:  0.9703886693017129
+NEG_at_1_shap:  0.5896574440052701
+NEG_at_5_shap:  0.8300065876152833
+NEG_at_10_shap:  0.9009222661396574
+NEG_at_20_shap:  0.9421936758893281
+NEG_at_50_shap:  0.9640974967061924
+NEG_at_100_shap:  0.9721343873517786
+0.7442237342384488 0.8112480111861889 0.7257409593907623 0.5387022397891963 0.5896574440052701 0.8212450592885375 0.8300065876152833 0.8987812911725954 0.9009222661396574 0.9436100131752306 0.9421936758893281 0.9647233201581027 0.9640974967061924 0.9703886693017129 0.9721343873517786
+ ============ Start explaining Yahoo MLP by accent ============
+From file: MLP_accent_expl_dict.pkl
+User 0, total time: 0.98
+User 500, total time: 1.01
+User 1000, total time: 1.46
+User 1500, total time: 1.07
+User 2000, total time: 1.01
+User 2500, total time: 1.01
+this experiment is for /home/amir.reza/counterfactual/CFX-REC/checkpoints/2MLP_Yahoo_2_256.pt and MLP
+users_DEL_accent:  0.7159815365005633
+users_INS_accent:  0.8246034447304973
+NDCG_accent:  0.6523757973111606
+POS_at_1_accent:  0.45909090909090905
+POS_at_5_accent:  0.7157444005270093
+POS_at_10_accent:  0.8061923583662713
+POS_at_20_accent:  0.8783926218708827
+POS_at_50_accent:  0.9344532279314888
+POS_at_100_accent:  0.9533926218708828
+NEG_at_1_accent:  0.5843214756258235
+NEG_at_5_accent:  0.8401844532279316
+NEG_at_10_accent:  0.9179183135704875
+NEG_at_20_accent:  0.9560276679841897
+NEG_at_50_accent:  0.9701910408432147
+NEG_at_100_accent:  0.9737483530961791
+0.7159815365005633 0.8246034447304973 0.6523757973111606 0.45909090909090905 0.5843214756258235 0.7157444005270093 0.8401844532279316 0.8061923583662713 0.9179183135704875 0.8783926218708827 0.9560276679841897 0.9344532279314888 0.9701910408432147 0.9533926218708828 0.9737483530961791

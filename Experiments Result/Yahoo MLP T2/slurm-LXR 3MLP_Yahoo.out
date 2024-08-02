@@ -1,0 +1,182 @@
+wandb: Currently logged in as: zwsdz123 (innsbruck). Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.17.5 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.17.3
+wandb: Run data is saved locally in /home/amir.reza/counterfactual/CFX-REC/wandb/run-20240729_200913-cy83okp4
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run radiant-meadow-109
+wandb: ⭐️ View project at https://wandb.ai/innsbruck/my-awesome-project
+wandb: 🚀 View run at https://wandb.ai/innsbruck/my-awesome-project/runs/cy83okp4
+wandb: - 0.005 MB of 0.007 MB uploadedwandb: \ 0.005 MB of 0.007 MB uploadedwandb: | 0.008 MB of 0.008 MB uploadedwandb:                                                                                
+wandb: 
+wandb: Run history:
+wandb:  acc ▁▄▆▇▇██▇
+wandb: loss █▅▄▅▂▃▃▁
+wandb: 
+wandb: Run summary:
+wandb:  acc 0.70971
+wandb: loss 0.19878
+wandb: 
+wandb: 🚀 View run radiant-meadow-109 at: https://wandb.ai/innsbruck/my-awesome-project/runs/cy83okp4
+wandb: ⭐️ View project at: https://wandb.ai/innsbruck/my-awesome-project
+wandb: Synced 4 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240729_200913-cy83okp4/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.
+wandb: wandb version 0.17.5 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.17.3
+wandb: Run data is saved locally in /home/amir.reza/counterfactual/CFX-REC/wandb/run-20240729_200925-lpsi5c94
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run trial_0
+wandb: ⭐️ View project at https://wandb.ai/innsbruck/Yahoo_MLP_LXR_training
+wandb: 🚀 View run at https://wandb.ai/innsbruck/Yahoo_MLP_LXR_training/runs/lpsi5c94
+method MLP @ 10
+model is 3MLP_Yahoo_3_256.pt
+======================== new run ========================
+Finished epoch 0 with run_pos_at_k 0.62 and run_neg_at_k 0.7886363636363636
+Train loss = -141466.859375
+saving the checkpoint in epch 1 with filename: 3YahooLXR_Yahoo_MLP_0_1_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 1 with run_pos_at_k 0.610909090909091 and run_neg_at_k 0.7927272727272726
+Train loss = -178274.859375
+saving the checkpoint in epch 2 with filename: 3YahooLXR_Yahoo_MLP_0_2_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 2 with run_pos_at_k 0.6068181818181818 and run_neg_at_k 0.795
+Train loss = -181865.03125
+saving the checkpoint in epch 3 with filename: 3YahooLXR_Yahoo_MLP_0_3_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 3 with run_pos_at_k 0.6086363636363636 and run_neg_at_k 0.7968181818181819
+Train loss = -184526.53125
+saving the checkpoint in epch 4 with filename: 3YahooLXR_Yahoo_MLP_0_4_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 4 with run_pos_at_k 0.6145454545454545 and run_neg_at_k 0.7963636363636364
+Train loss = -186927.859375
+saving the checkpoint in epch 5 with filename: 3YahooLXR_Yahoo_MLP_0_5_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 5 with run_pos_at_k 0.615 and run_neg_at_k 0.8
+Train loss = -190327.078125
+saving the checkpoint in epch 6 with filename: 3YahooLXR_Yahoo_MLP_0_6_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 6 with run_pos_at_k 0.6186363636363637 and run_neg_at_k 0.7990909090909091
+Train loss = -192615.640625
+saving the checkpoint in epch 7 with filename: 3YahooLXR_Yahoo_MLP_0_7_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 7 with run_pos_at_k 0.61 and run_neg_at_k 0.8
+Train loss = -194032.671875
+saving the checkpoint in epch 8 with filename: 3YahooLXR_Yahoo_MLP_0_8_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 8 with run_pos_at_k 0.610909090909091 and run_neg_at_k 0.805
+Train loss = -196260.859375
+saving the checkpoint in epch 9 with filename: 3YahooLXR_Yahoo_MLP_0_9_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 9 with run_pos_at_k 0.6095454545454545 and run_neg_at_k 0.8059090909090909
+Train loss = -198251.125
+saving the checkpoint in epch 10 with filename: 3YahooLXR_Yahoo_MLP_0_10_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 10 with run_pos_at_k 0.6081818181818182 and run_neg_at_k 0.805
+Train loss = -201450.78125
+saving the checkpoint in epch 11 with filename: 3YahooLXR_Yahoo_MLP_0_11_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 11 with run_pos_at_k 0.6086363636363636 and run_neg_at_k 0.8059090909090909
+Train loss = -203235.84375
+saving the checkpoint in epch 12 with filename: 3YahooLXR_Yahoo_MLP_0_12_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 12 with run_pos_at_k 0.5986363636363636 and run_neg_at_k 0.8059090909090909
+Train loss = -206943.5
+saving the checkpoint in epch 13 with filename: 3YahooLXR_Yahoo_MLP_0_13_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 13 with run_pos_at_k 0.5981818181818181 and run_neg_at_k 0.8040909090909091
+Train loss = -208831.421875
+saving the checkpoint in epch 14 with filename: 3YahooLXR_Yahoo_MLP_0_14_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 14 with run_pos_at_k 0.5954545454545455 and run_neg_at_k 0.8072727272727274
+Train loss = -209551.953125
+saving the checkpoint in epch 15 with filename: 3YahooLXR_Yahoo_MLP_0_15_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 15 with run_pos_at_k 0.5918181818181818 and run_neg_at_k 0.8018181818181819
+Train loss = -210460.984375
+saving the checkpoint in epch 16 with filename: 3YahooLXR_Yahoo_MLP_0_16_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 16 with run_pos_at_k 0.5931818181818183 and run_neg_at_k 0.8059090909090909
+Train loss = -211820.984375
+saving the checkpoint in epch 17 with filename: 3YahooLXR_Yahoo_MLP_0_17_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 17 with run_pos_at_k 0.5854545454545454 and run_neg_at_k 0.7972727272727274
+Train loss = -215120.53125
+saving the checkpoint in epch 18 with filename: 3YahooLXR_Yahoo_MLP_0_18_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 18 with run_pos_at_k 0.5831818181818182 and run_neg_at_k 0.7963636363636364
+Train loss = -217468.015625
+saving the checkpoint in epch 19 with filename: 3YahooLXR_Yahoo_MLP_0_19_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 19 with run_pos_at_k 0.5786363636363636 and run_neg_at_k 0.7918181818181819
+Train loss = -219484.21875
+saving the checkpoint in epch 20 with filename: 3YahooLXR_Yahoo_MLP_0_20_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 20 with run_pos_at_k 0.5981818181818181 and run_neg_at_k 0.8031818181818181
+Train loss = -222258.984375
+saving the checkpoint in epch 21 with filename: 3YahooLXR_Yahoo_MLP_0_21_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 21 with run_pos_at_k 0.5781818181818182 and run_neg_at_k 0.7981818181818181
+Train loss = -229321.234375
+saving the checkpoint in epch 22 with filename: 3YahooLXR_Yahoo_MLP_0_22_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 22 with run_pos_at_k 0.5663636363636363 and run_neg_at_k 0.7945454545454546
+Train loss = -235292.25
+saving the checkpoint in epch 23 with filename: 3YahooLXR_Yahoo_MLP_0_23_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 23 with run_pos_at_k 0.5609090909090909 and run_neg_at_k 0.805
+Train loss = -241594.375
+saving the checkpoint in epch 24 with filename: 3YahooLXR_Yahoo_MLP_0_24_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 24 with run_pos_at_k 0.5645454545454546 and run_neg_at_k 0.8059090909090909
+Train loss = -245826.6875
+saving the checkpoint in epch 25 with filename: 3YahooLXR_Yahoo_MLP_0_25_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 25 with run_pos_at_k 0.565 and run_neg_at_k 0.8045454545454546
+Train loss = -249682.25
+saving the checkpoint in epch 26 with filename: 3YahooLXR_Yahoo_MLP_0_26_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 26 with run_pos_at_k 0.56 and run_neg_at_k 0.8063636363636364
+Train loss = -252243.734375
+saving the checkpoint in epch 27 with filename: 3YahooLXR_Yahoo_MLP_0_27_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 27 with run_pos_at_k 0.5590909090909091 and run_neg_at_k 0.8
+Train loss = -254084.890625
+saving the checkpoint in epch 28 with filename: 3YahooLXR_Yahoo_MLP_0_28_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 28 with run_pos_at_k 0.5554545454545454 and run_neg_at_k 0.7981818181818181
+Train loss = -255537.921875
+saving the checkpoint in epch 29 with filename: 3YahooLXR_Yahoo_MLP_0_29_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 29 with run_pos_at_k 0.5577272727272727 and run_neg_at_k 0.8036363636363636
+Train loss = -257005.28125
+saving the checkpoint in epch 30 with filename: 3YahooLXR_Yahoo_MLP_0_30_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 30 with run_pos_at_k 0.5531818181818182 and run_neg_at_k 0.8122727272727274
+Train loss = -264350.5
+saving the checkpoint in epch 31 with filename: 3YahooLXR_Yahoo_MLP_0_31_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 31 with run_pos_at_k 0.5522727272727272 and run_neg_at_k 0.8122727272727274
+Train loss = -268596.3125
+saving the checkpoint in epch 32 with filename: 3YahooLXR_Yahoo_MLP_0_32_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 32 with run_pos_at_k 0.5513636363636363 and run_neg_at_k 0.8163636363636364
+Train loss = -272698.96875
+saving the checkpoint in epch 33 with filename: 3YahooLXR_Yahoo_MLP_0_33_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 33 with run_pos_at_k 0.5468181818181818 and run_neg_at_k 0.815
+Train loss = -274038.34375
+saving the checkpoint in epch 34 with filename: 3YahooLXR_Yahoo_MLP_0_34_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 34 with run_pos_at_k 0.5377272727272727 and run_neg_at_k 0.82
+Train loss = -275268.5
+saving the checkpoint in epch 35 with filename: 3YahooLXR_Yahoo_MLP_0_35_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 35 with run_pos_at_k 0.5377272727272727 and run_neg_at_k 0.8204545454545454
+wandb: - 0.005 MB of 0.005 MB uploadedwandb: \ 0.005 MB of 0.017 MB uploadedwandb: | 0.007 MB of 0.017 MB uploadedwandb: / 0.007 MB of 0.017 MB uploadedwandb: - 0.017 MB of 0.017 MB uploadedwandb:                                                                                
+wandb: 
+wandb: Run history:
+wandb:      train/epoch ▁▁▁▂▂▂▂▂▂▃▃▃▃▃▄▄▄▄▄▄▅▅▅▅▅▅▆▆▆▆▆▇▇▇▇▇▇███
+wandb:    train/l1_loss ▅█████▇▇▇▇▇▇▆▆▆▆▆▆▅▅▅▄▄▃▃▃▃▃▂▂▂▂▂▂▁▁▁▁▁▁
+wandb:   train/neg_loss █▆▆▆▆▆▆▅▅▅▅▅▅▅▅▅▅▄▄▄▄▄▃▃▃▃▂▂▂▂▂▂▁▁▁▁▁▁▁▁
+wandb:   train/pos_loss █▄▄▄▄▄▄▄▄▃▃▃▃▃▃▃▃▃▃▃▃▃▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁
+wandb: train/train_loss █▆▆▆▆▆▅▅▅▅▅▅▅▅▅▅▄▄▄▄▄▄▃▃▃▃▂▂▂▂▂▂▁▁▁▁▁▁▁▁
+wandb:     val/neg_at_k ▁▂▂▃▃▃▃▃▄▅▄▅▅▄▅▄▅▃▃▂▄▃▂▄▅▄▅▃▃▄▆▆▇▆██████
+wandb:     val/pos_at_k █▇▇▇███▇▇▇▇▇▆▆▆▆▆▅▅▅▆▅▄▃▄▄▃▃▃▃▃▃▂▂▁▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:      train/epoch 39
+wandb:    train/l1_loss 8889.14355
+wandb:   train/neg_loss -14101.58301
+wandb:   train/pos_loss 1337.7002
+wandb: train/train_loss -281129.84375
+wandb:     val/neg_at_k 0.82091
+wandb:     val/pos_at_k 0.53364
+wandb: 
+wandb: 🚀 View run trial_0 at: https://wandb.ai/innsbruck/Yahoo_MLP_LXR_training/runs/lpsi5c94
+wandb: ⭐️ View project at: https://wandb.ai/innsbruck/Yahoo_MLP_LXR_training
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240729_200925-lpsi5c94/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.
+Train loss = -277544.46875
+saving the checkpoint in epch 36 with filename: 3YahooLXR_Yahoo_MLP_0_36_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 36 with run_pos_at_k 0.5354545454545455 and run_neg_at_k 0.8222727272727274
+Train loss = -278845.21875
+saving the checkpoint in epch 37 with filename: 3YahooLXR_Yahoo_MLP_0_37_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 37 with run_pos_at_k 0.535 and run_neg_at_k 0.8213636363636364
+Train loss = -279892.625
+saving the checkpoint in epch 38 with filename: 3YahooLXR_Yahoo_MLP_0_38_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 38 with run_pos_at_k 0.5381818181818182 and run_neg_at_k 0.8218181818181819
+Train loss = -280634.0625
+saving the checkpoint in epch 39 with filename: 3YahooLXR_Yahoo_MLP_0_39_128_27.423830271400014_23.16788172642793.pt
+Finished epoch 39 with run_pos_at_k 0.5336363636363637 and run_neg_at_k 0.8209090909090909
+Train loss = -281129.84375
+Stop at trial with lambda_pos = 27.423830271400014, lambda_neg = 23.16788172642793, alpha_parameter = 1. Best results at epoch 39 with value 0.5336363636363637
+Best hyperparameters: {'learning_rate': 0.005854464379599326, 'alpha': 1, 'lambda_neg': 23.16788172642793, 'lambda_pos': 27.423830271400014, 'batch_size': 256, 'explainer_hidden_size': 128}
+Best metric value: 0.5336363636363637
