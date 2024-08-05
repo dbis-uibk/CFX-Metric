@@ -4,7 +4,7 @@ Fair Metric for Counterfactual Explanation of Recommenders
 
 ## Repository
 
-This repository contains code for a Learning to eXplain Recommendations (LXR) framework that was evaluated on three publicly available benchmarks, MovieLens1M, a subset of Yahoo!Music dataset and a subset of Pinterest dataset, using two different recommenders, Multi Layer Perceptron (MLP) and Variational Auto Encoder (VAE). Hyperparameters optimization was done using optuna.
+This repository contains code for "Are We Explaining Flawed Recommenders? Incorporating Recommender Performance in evaluating explainers" paper evaluated on three publicly available benchmarks, MovieLens1M, a subset of Yahoo!Music dataset and a subset of Pinterest dataset, using two different recommenders, Matric Factorization (MF) and Variational Auto Encoder (VAE). Hyperparameters optimization was done using optuna.
 
 ## Folders
 
