@@ -1,6 +1,6 @@
 #Run
 """
-sbatch --job-name=CFX --mail-user=amir.reza@uibk.ac.at --time=12:00:00 --mem=64G ~/jobs/single-node-gpu.job "python code/recommenders_training.py"
+sbatch --job-name=CFX --time=12:00:00 --mem=64G ~/jobs/single-node-gpu.job "python code/recommenders_training.py"
 """
 #   
 # # Imports
