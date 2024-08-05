@@ -1,5 +1,5 @@
 # python code/LXR_training.py --directory MLP_ML1M_1_512.pt --model MLP
-#sbatch --job-name=CFX1 --mail-user=amir.reza@uibk.ac.at --time=12:00:00 --mem=64G ~/jobs/single-node-gpu.job "python code/LXR_training.py --directory MLP_ML1M_1_512.pt --model MLP"
+#sbatch --job-name=CFX1 --time=12:00:00 --mem=64G ~/jobs/single-node-gpu.job "python code/LXR_training.py --directory MLP_ML1M_1_512.pt --model MLP"
 from contextlib import contextmanager
 from time import time, sleep
 
